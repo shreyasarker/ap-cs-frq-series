@@ -1,4 +1,3 @@
-
 # AP CS FRQ Series (Java)
 
 This repository contains solutions to the **AP Computer Science A Free Response Questions (FRQs)** in **Java**. It is designed to help students prepare for the AP CS A exam by practicing problems with solutions and explanations.
@@ -9,6 +8,7 @@ This repository contains solutions to the **AP Computer Science A Free Response 
 - [Repository Structure](#repository-structure)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction
 
@@ -18,19 +18,6 @@ The **AP CS FRQ Series** helps students practice Java programming through AP exa
 
 This repository is organized by year. For example:
 
-```
-ap-cs-frq-series/
-├── 2024/
-│   ├── question_1/
-│   │   ├── problem.md
-│   │   ├── solution.java
-│   │   └── explanation.md
-│   └── question_2/
-│       ├── problem.md
-│       ├── solution.java
-│       └── explanation.md
-└── ...
-```
 
 - Each year (e.g., `2024/`) contains folders for individual questions.
 - Each question folder contains:
@@ -49,3 +36,7 @@ ap-cs-frq-series/
 ## Contributing
 
 Feel free to fork the repository and submit a pull request with improvements, new questions, or corrections. Please ensure your contributions follow the same structure as the existing content.
+
+## License
+
+This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
