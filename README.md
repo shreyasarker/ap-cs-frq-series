@@ -1,42 +1,70 @@
-# AP CS FRQ Series (Java)
+ # AP CS A FRQ Solutions
+ ![Java](https://img.shields.io/badge/Language-Java-blue.svg)
+![AP CS A](https://img.shields.io/badge/Exam-AP_CS_A-critical)
+![Problems Solved](https://img.shields.io/badge/FRQs%20Solved-Ongoing-brightgreen.svg)
+![License](https://img.shields.io/badge/License-Educational-lightgrey.svg)
 
-This repository contains solutions to the **AP Computer Science A Free Response Questions (FRQs)** in **Java**. It is designed to help students prepare for the AP CS A exam by practicing problems with solutions and explanations.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Repository Structure](#repository-structure)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-The **AP CS FRQ Series** helps students practice Java programming through AP exam-level problems. Each problem includes a description, Java solution, and detailed explanation. These problems cover a wide range of topics in Java, including arrays, classes, inheritance, algorithms, and more.
+This repository contains solutions to the **Free Response Questions (FRQs)** from past **AP Computer Science A** exams. Each solution is explained with code comments and detailed explanations to help students understand the problem-solving process. The goal of this repository is to provide a thorough walkthrough of each problem, helping students gain insights into how to approach and solve common types of problems on the AP exam.
 
 ## Repository Structure
 
-This repository is organized by year. For example:
+- Each problem is located in its own folder.
+- Each folder contains:
+  - The Java class that solves the problem.
+  - A test class to verify the solution.
+  - A detailed **problem description** (paraphrased to comply with copyright rules).
+  - An explanation of the code and approach taken to solve the problem.
 
+## How to Use This Repository
 
-- Each year (e.g., `2024/`) contains folders for individual questions.
-- Each question folder contains:
-  - **`problem.md`**: The problem description.
-  - **`solution.java`**: Java solution code.
-  - **`explanation.md`**: Explanation of the solution.
+1. **Clone the Repository**:  
+   To get started, clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/shreyasarker/ap-cs-frq-series.git
+    ```
 
-## How to Use
+2. **Explore the Problems**:
+   Browse through the various FRQs and their solutions. Each solution is contained in a separate folder named by the problem number (e.g., **year2024\problem_1**).
 
-1. Browse through the years and select a question.
-2. Read the problem in the `problem.md` file.
-3. Try solving it yourself.
-4. Check the `solution.java` for the code and compare it with your solution.
-5. Review the `explanation.md` for a detailed breakdown of the solution.
+3. **Running the Code**:
+   You can compile and run the Java files using a Java IDE (e.g., IntelliJ IDEA, Eclipse) or from the command line:
+
+   ```bash
+   javac Feeder.java FeederTest.java
+   java FeederTest
+   ```
+
+4. **Test the Solution**:
+   Each folder includes a **test class** which demonstrates how to use the solution. Run the test class to see how the solution works.
+
+## Goals
+
+* Provide clear and easy-to-understand solutions for students preparing for the AP CS A exam.
+* Offer practice problems with detailed explanations to reinforce coding concepts.
+* Help students develop problem-solving skills and understand the underlying principles of the AP CS A curriculum.
 
 ## Contributing
 
-Feel free to fork the repository and submit a pull request with improvements, new questions, or corrections. Please ensure your contributions follow the same structure as the existing content.
+If you’d like to contribute to this repository:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Submit a pull request with your solution and explanations.
 
 ## License
 
-This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more information.
+This repository is intended for educational purposes only. The solutions are based on previous AP CS A exam problems and are shared for academic use. They should not be used for any commercial purposes.
+
+## Contact
+
+For any questions or suggestions, feel free to contact me at:
+**Email**: \[[shreya.sarker@gmail.com](mailto:shreya.sarker@gmail.com)]
+**GitHub**: \[[GitHub profile](https://github.com/shreyasarker)]
+
+---
+
+### Disclaimer
+
+The AP CS A FRQs are paraphrased to avoid copyright infringement. All rights to the original AP exam content belong to the College Board.
+
+

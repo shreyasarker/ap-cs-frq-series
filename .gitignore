@@ -1,0 +1,23 @@
+# Java class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# VS Code settings
+.vscode/
+
+# Build output
+bin/
+out/
+build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
